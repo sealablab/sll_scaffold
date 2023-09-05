@@ -9,5 +9,6 @@ mtime: 2023-09-04-22-30
 
 # Vault_Todo
 * Figure out how to introduce metadata 'FileClass'.
-  Torn between manually adding some entries before converting them into FileClass instances, or just starting there
+  I reccomend starting with: https://mdelobelle.github.io/metadatamenu/fileclasses/
+
 

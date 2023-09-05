@@ -1,0 +1,9 @@
+# jc_dont_forget.txt
+
+Things not to forget to emphasize:
+* This a vault designed around the new frontmatter (aka properties) aka metadata integration
+* Unless explicitly specified elsewhere, this vault will make the following assumptions
+  Although there can be slight conceptual differences between obsidian 'frontmatter' vs 'metadata', we make the following assumptions.
+  As long as we access *all* frontmatter fields through the MetaData Menu API (https://mdelobelle.github.io/metadatamenu/api/), we can
+  treat obsidian native frontmatter and the slightly more powerful metadata interface it exposes as conceptually equivalent.
+
