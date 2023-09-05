@@ -10,9 +10,3 @@ mtime: 2023-09-04-22-30
 * Checked in description of initial vault hierarchy 
 * Added changelog file 
 
-
-
-# Vault_Todo
-* Figure out how to introduce metadata 'FileClass'.
-  Torn between manually adding some entries before converting them into FileClass instances, or just starting there
-

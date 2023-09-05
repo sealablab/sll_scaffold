@@ -1,0 +1,13 @@
+---
+aliases
+ctime: 2023-09-04
+mtime: 2023-09-04-22-30
+---
+
+# 02_Vault_Todo
+[[02_Vault_Todo]] Try to lay out the changes i intend to make before making them..
+
+# Vault_Todo
+* Figure out how to introduce metadata 'FileClass'.
+  Torn between manually adding some entries before converting them into FileClass instances, or just starting there
+
